@@ -1,0 +1,3 @@
+1|admin|Admin|abc123|0|0
+2|user1|User One|pass1|1|0
+3|user2|User Two|pass2|1|1
